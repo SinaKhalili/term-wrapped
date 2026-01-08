@@ -1,6 +1,6 @@
 [project]
 name = "term-wrapped"
-version = "0.1.0"
+version = "0.1.1"
 description = "Your year in the terminal - a visual wrapped experience for shell commands"
 readme = "README.md"
 license = { text = "MIT" }
